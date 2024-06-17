@@ -1,0 +1,91 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .env files (contains sensitive information)
+.env
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.class
+*.war
+*.ear
+*.jar
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore Yarn integrity file
+.yarn-integrity
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore eslint cache
+.eslintcache
+
+# Ignore Jest coverage directory
+coverage/
+
+# Ignore Docker Compose override file
+docker-compose.override.yml
+
+# Ignore .vs folder for Visual Studio
+.vs/
+
+# Ignore .DS_Store files created by macOS
+.DS_Store
+
+# Ignore yarn error log
+yarn-error.log
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python virtual environments
+venv/
+.env/
+
+# Ignore pipenv virtual environment
+Pipfile.lock
+
+# Ignore SQLite databases
+*.sqlite3
+
+# Ignore macOS metadata files
+.AppleDouble
+.DS_Store
+.LSOverride
+
+# Ignore Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Ignore hidden .git directory in submodules
+**/.git
+
+# Ignore logs from npm
+logs
+*.log
+npm-debug.log*
+
+# Ignore yarn errors file
+.yarn-error.log
+
+# Ignore yarn coverage folder
+coverage
+
+# Ignore yarn generated
